@@ -14,9 +14,7 @@
     "element-plus": "^2.2.19",
     "vue": "^3.2.13",
     "vue-condition-watcher": "^1.4.7",
-    "vue-infinite-scroll": "^2.0.2",
-    "vue-router": "^4.1.5",
-    "vue3-infinite-scroll-good": "^1.0.2"
+    "vue-router": "^4.1.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
