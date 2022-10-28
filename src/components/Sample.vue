@@ -39,7 +39,7 @@
     <el-pagination
       background
       layout="prev, pager, next"
-      :total="100"
+      :total="30"
       v-model:current-page="conditions.page"
     />
     <div v-if="error">{{ error }}</div>
@@ -72,7 +72,6 @@ export default {
         immediate: true,
         manual: false,
         afterFetch(response) {
-          console.log(response);
           if (response.data === null) {
             return [];
           }

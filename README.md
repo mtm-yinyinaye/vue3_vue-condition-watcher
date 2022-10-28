@@ -29,4 +29,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 vue-condition-watcher
     https://github.com/runkids/vue-condition-watcher#installation
     https://stackblitz.com/edit/vitejs-vite-tsvfqu?file=README.md
+
+bootstrap-vue-3
+    https://cdmoro.github.io/bootstrap-vue-3/getting-started/#installation-vue-js
+
+element-plus
+    https://element-plus.org/en-US/guide/installation
+    https://element-plus.org/en-US/component/button.html#disabled-button
 ```
